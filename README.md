@@ -19,3 +19,6 @@
 
 - [README Convention](./readme-convention.md)  
   프로젝트에 포함된 README.md 작성 시의 형식, 구조, 문체, 작성 예시 등을 제공합니다.
+
+- [레포지토리 이름 규칙 보기](./repo-name-convention.md)
+  레포지토리 이름을 어떻게 지을지 규정해 둠
